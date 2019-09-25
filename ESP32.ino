@@ -117,7 +117,7 @@ void Posicionador(){  // POSICIONADOR DA CARTA SOBRE A CÂMERA
   */
 
   delay(500);   // PAUSA PRA FOTO
-  pic = 1       // PLACEHOLDER DA FUNÇÃO
+  pic = 1;      // PLACEHOLDER DA FUNÇÃO
 
   /*
     CÓDIGO MOTOR DE PASSOS GIRANDO
